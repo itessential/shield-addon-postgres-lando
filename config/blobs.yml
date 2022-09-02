@@ -1,0 +1,6 @@
+postgres/postgresql-13.8.tar.bz2:
+  size: 21397381
+  sha: sha256:73876fdd3a517087340458dca4ce15b8d2a4dbceb334c0441424551ae6c4cded
+postgres/postgresql-14.5.tar.bz2:
+  size: 22132996
+  sha: sha256:d4f72cb5fb857c9a9f75ec8cf091a1771272802f2178f0b2e65b7b6ff64f4a30

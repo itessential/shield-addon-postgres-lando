@@ -1,0 +1,6 @@
+name: shield-agent-postgres-lando
+final_name: shield-agent-postgres-lando
+blobstore:
+  provider: local
+  options:
+    blobstore_path: /Users/mcgan/Documents/Repos/customs/postgres
